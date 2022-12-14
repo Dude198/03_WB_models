@@ -13,3 +13,8 @@ INSERT INTO `mydb`.`cats` (`id`, `name`, `age`) VALUES (DEFAULT, "Alonzo", 35);
 
 -- Anzeige
 SELECT * FROM mydb.cats;
+
+
+
+
+
